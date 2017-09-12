@@ -6,7 +6,8 @@
 
 ##### Enhancements
 
-* None.
+* Improve documentation of autolinking and source file exclusion.  
+  [John Fairhurst](https://github.com/johnfairh)
 
 ##### Bug Fixes
 
